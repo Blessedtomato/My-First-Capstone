@@ -1,6 +1,8 @@
 # My First Capstone
 # An analysis on stroke patients and other health indicators
 
+![image](https://user-images.githubusercontent.com/123168685/216298032-d87ca93d-d0b6-4b5c-acb7-b9ce91363314.png)
+
 From the interactive charts, we are able to find out
 
 -Pie chart on number of stroke patients 
